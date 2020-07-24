@@ -33,6 +33,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/martin/workingmanagerexample/ui/blur_image/BlurImageFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/martin/workingmanagerexample/ui/select_image/SelectImageFragment.kt">
           <value>
             <set />

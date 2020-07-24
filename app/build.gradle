@@ -64,5 +64,6 @@ dependencies {
     implementation "org.koin:koin-android:2.0.1"
     implementation "org.koin:koin-androidx-viewmodel:2.0.1"
     implementation "org.koin:koin-core:2.0.1"
+    implementation 'com.karumi:dexter:6.2.1'
 
 }
