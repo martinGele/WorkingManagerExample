@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sajtek.user.access",
+    "sha256_cert_fingerprints":
+    ["EE:60:0A:17:9E:79:E5:3D:9B:4C:19:09:BB:40:58:EA:FA:5D:82:69:29:11:8D:42:8B:74:AE:1F:4D:4C:FB:D8"]
+  }
+}]
